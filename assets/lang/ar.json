@@ -1,0 +1,17 @@
+{
+    "home": "الرئيسيه",
+    "Edit" : "تعديل",
+    "Delete" : "حذف",
+    "noReminders" : "ليس لديك تنبيهات بعد. اضف تنبيه جديد" ,
+    "errorMessage" : "خطاء . يرجى اعاده المحاوله",
+    "close" : "اغلاق",
+    "deleteDialogContent" : "هل انت متاكد انك تريد مسح ذلك التنبيه",
+    "addReminder" : "اضف تنبيه",
+    "updateReminder" : "نعديل التنبيه",
+    "title" : "العنوان",
+    "description" : "الوصف",
+    "selectTime" : "اختر الوقت",
+    "validationMessage" : "هذا الحقل مطلوب!",
+    "settings": "الاعدادات",
+    "language": "اللغه"
+}

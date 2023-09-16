@@ -1,0 +1,17 @@
+{
+    "home": "Home",
+    "Edit": "Edit",
+    "Delete": "Delete",
+    "noReminders": "You have no reminders yet. add reminders now",
+    "errorMessage": "Unexpected Error. Try again later",
+    "close": "Close",
+    "deleteDialogContent": "Are you sure you want to delete this reminder?",
+    "addReminder": "Add Reminder",
+    "updateReminder": "Update Reminder",
+    "title": "Title",
+    "description": "Description",
+    "selectTime": "Select Time",
+    "validationMessage": "This field can not be empty",
+    "settings": "Settings",
+    "language": "Language"
+}
